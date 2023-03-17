@@ -2,7 +2,7 @@
 - 👀 I’m interested in penetration testing
 - 🌱 I’m currently learning basics of pentesting
 - 💞️ I’m looking to collaborate on tryhackme
-- 📫 How to reach me Email:herrypatel770@gmail.com
+- 📫 How to reach me Email:
 
 <!---
 patelherry/patelherry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
